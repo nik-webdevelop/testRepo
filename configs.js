@@ -1,6 +1,6 @@
 // some config file
 let config = {
-  param: '5',
+  param: '55',
   name: 'You',
   age: '45'
 };

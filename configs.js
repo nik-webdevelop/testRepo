@@ -5,4 +5,5 @@ let config = {
   age: '45',
   age: '45',
   age: '45',
+  configtest: true
 };
